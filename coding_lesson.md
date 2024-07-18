@@ -98,7 +98,7 @@ Functions can call other functions.
 
 ```
 function sayHello (name) {
-    print('Hello ', ${name}, '!')
+    print('Hello ', name, '!')
 }
 
 function greetEveryone () {
