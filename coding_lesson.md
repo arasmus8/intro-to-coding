@@ -9,6 +9,7 @@ These are some great resources you can use to learn more about coding:
 - [Hour of Code](https://hourofcode.com/us): Fun activities and videos to learn computer science
 - [Scratch](https://scratch.mit.edu/): Learn to code with visual blocks
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
+- Human Resource Machine on the app store
 
 ## Instructions
 
